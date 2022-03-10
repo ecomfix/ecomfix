@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ssema@ecomfix
+- 👋 Hi, I’m seema@ecomfix
 - 👀 I’m interested in web3 and NFTs
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on Web3
